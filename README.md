@@ -28,7 +28,8 @@ Desarrollar una aplicación en consola que simule el registro, deshacer (Undo) y
 *(Reemplaza con imágenes reales de tu ejecución)*
 | Acción | Captura |
 |:---|:---|
-| Registro de Pizza + Ingredientes |
+| Registro de Pizza + Ingredientes | <img width="446" height="360" alt="image" src="https://github.com/user-attachments/assets/170852ec-c929-4bec-a401-76359408dacc" />
+
 | Ciclo: Deshacer → Rehacer → Peek | 
 | Validación de entrada y salida |
 
