@@ -24,7 +24,7 @@ public class GestionPedidos {
             System.out.println("0. Salir");
             System.out.print("Selecciona una opción: ");
 
-            // 🛡️ Validación para evitar crash por entrada no numérica
+            //  Validación para evitar crash por entrada no numérica
             while (!scanner.hasNextInt()) {
                 System.out.print(" Ingresa un número válido (0-4): ");
                 scanner.next(); // limpia el buffer
