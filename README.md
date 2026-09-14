@@ -24,13 +24,15 @@ Desarrollar una aplicación en consola que simule el registro, deshacer (Undo) y
 5. Ejecuta: `java GestionPedidos`
 6. Sigue el menú interactivo en consola
 
-##  Capturas de Consola
-*(Reemplaza con imágenes reales de tu ejecución)*
-| Acción | 
-|:---|
-| Registro de Pizza + Ingredientes |
-| Ciclo: Deshacer → Rehacer → Peek | 
-| Validación de entrada y salida |
+## 📸 Capturas de Consola
+| Acción | Captura |
+|:---|:---|
+| Registro de Pizza + Ingredientes | `<img width="412" height="238" alt="image" src="https://github.com/user-attachments/assets/ebbadbff-021a-4b56-9e9a-5357a2e1d648" />
+` |
+| Ciclo: Deshacer → Rehacer → Peek | `<img width="377" height="159" alt="image" src="https://github.com/user-attachments/assets/a774f18f-8222-45ea-bdcf-1d835f2d8215" />
+` |
+| Validación de entrada y salida | `<img width="340" height="147" alt="image" src="https://github.com/user-attachments/assets/1dac2828-3bcb-4530-a456-a41f6e4375bc" />
+` |
 
 
 ##  Información Académica
