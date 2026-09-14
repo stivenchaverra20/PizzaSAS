@@ -14,7 +14,7 @@ public class Nodo {
         this.siguiente = null; // Inicialmente no apunta a nada
     }
 
-    // 🔓 Getters y Setters (para leer/modificar punteros y datos)
+    //  Getters y Setters (para leer/modificar punteros y datos)
     public Pizza getPizza() { return pizza; }
     public void setPizza(Pizza pizza) { this.pizza = pizza; }
 
